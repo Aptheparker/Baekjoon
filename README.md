@@ -10,7 +10,7 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/aptheparker/bakejoon/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/aptheparker/baekjoon" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
