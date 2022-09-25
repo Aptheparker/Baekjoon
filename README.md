@@ -49,8 +49,6 @@
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
@@ -88,17 +86,7 @@
 <!-- Features -->
 ### :dart: Features
 
--Algorithms
-
-<!-- Color Reference -->
-### :art: Color Reference
-
-None
-
-<!-- Env Variables -->
-### :key: Environment Variables
-
-None
+-Solutions
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
