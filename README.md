@@ -76,7 +76,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="img1" alt="screenshot" />
+  <img src="/img1.png" alt="screenshot" />
 </div>
 
 
