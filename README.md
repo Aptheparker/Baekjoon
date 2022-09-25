@@ -9,7 +9,7 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/aptheparker/bakejoon/graphs/contributors">
+  <a href="https://github.com/aptheparker/baekjoon/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/aptheparker/baekjoon" alt="contributors" />
   </a>
   <a href="">
