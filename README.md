@@ -54,15 +54,12 @@
   * [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
 - [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
-  
 
 <!-- About the Project -->
 ## :star2: About the Project
-
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -88,6 +85,7 @@
 
 -Solutions
 
+
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
@@ -100,6 +98,7 @@ Clone the project
   git clone https://github.com/aptheparker/baekjoon.git
 ```
 
+
 <!-- Usage -->
 ## :eyes: Usage
 
@@ -109,6 +108,7 @@ None
 ```None
 ```
 
+
 <!-- Contributing -->
 ## :wave: Contributing
 
@@ -117,6 +117,7 @@ None
 </a>
 
 Contributions are always welcome!
+
 
 <!-- Contact -->
 ## :handshake: Contact
