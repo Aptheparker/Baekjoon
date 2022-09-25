@@ -50,7 +50,6 @@
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
-  * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
 - [Contributing](#wave-contributing)
