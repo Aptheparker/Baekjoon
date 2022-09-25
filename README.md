@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="/img1.png" alt="screenshot" />
+  <img src="/README_img/img1.png" alt="screenshot" />
 
   <h1>Baekjoon</h1>
   
@@ -66,7 +66,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="/img1.png" alt="screenshot" />
+  <img src="/README_img/img1.png" alt="screenshot" />
 </div>
 
 
