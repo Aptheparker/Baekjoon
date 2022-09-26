@@ -116,7 +116,7 @@ Clone the project
 ## :eyes: Usage
 
 Baekjoon algorithms solutions available here. <br>
-Whenever I send the solutions of each quesiton, the program would commit the source codes automatically to this respository.
+Whenever I send the solutions of each quesiton, the program would commit the source codes automatically to this respository. <br>
 Have fun!!
 
 <!-- Contributing -->
