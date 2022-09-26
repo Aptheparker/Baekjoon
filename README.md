@@ -1,11 +1,10 @@
 <div align="center">
-  
-  <img src="/README_img/img1.png" alt="screenshot" />
 
+  <img src="README_img/img1.png" alt="symbol" width="300" height="auto" />
   <h1>Baekjoon</h1>
   
   <p>
-    Codes for Baekjoon Solution!
+    AP's Baekjoon Solution Codes.
   </p>
   
   
@@ -44,29 +43,34 @@
 
 <br />
 
-<!-- Contents -->
+<!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
 - [Contributing](#wave-contributing)
+- [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
+  
 
 <!-- About the Project -->
 ## :star2: About the Project
+
 
 <!-- Screenshots -->
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="/README_img/img1.png" alt="screenshot" />
+  <img src="README_img/img1.png" alt="screenshot" width="900" height="auto"/>
 </div>
 
 
@@ -74,21 +78,30 @@
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Languages</summary>
+  <summary>Language</summary>
   <ul>
-    <li><a href="https://www.python.org/">Python</a></li>
-    <li><a href="https://cplusplus.com/">C++</a></li>
+    <li>C++</li>
+    <li>Python</li>
   </ul>
 </details>
 
-<!-- Features -->
-### :dart: Features
-
--Solutions
-
-
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
+
+<!-- Prerequisites -->
+### :bangbang: Prerequisites
+
+None
+
+<!-- Installation -->
+### :gear: Installation
+
+None
+
+<!-- Running Tests -->
+### :test_tube: Running Tests
+
+None
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -99,40 +112,46 @@ Clone the project
   git clone https://github.com/aptheparker/baekjoon.git
 ```
 
-
 <!-- Usage -->
 ## :eyes: Usage
 
-None
-
-
-```bash
-  none
-```
-
+Baekjoon algorithms solutions available here. <br>
+Whenever I send the solutions of each quesiton, the program would commit the source codes automatically to this respository.
+Have fun!!
 
 <!-- Contributing -->
 ## :wave: Contributing
 
 <a href="https://github.com/aptheparker/baekjoon/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aptheparker/baekjoon" />
+  <img src="https://contrib.rocks/image?repo=aptheparker/me" />
 </a>
+
 
 Contributions are always welcome!
 
+<ol>
+  <li>Fork the Project</li>
+  <li>Create your Feature Branch (git checkout -b feature/AmazingFeature)</li>
+  <li>Commit your Changes (git commit -m 'Add some AmazingFeature')</li>
+  <li>Push to the Branch (git push origin feature/AmazingFeature)</li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<!-- License -->
+## :warning: License
+
+None
 
 <!-- Contact -->
 ## :handshake: Contact
 
 Your Name - [@instagram](https://www.instagram.com/aptheparker) - aptheparker@gmail.com
 
-Project Link: [https://github.com/aptheparker/baekjoon](https://github.com/aptheparker/baekjoon)
+Project Link: [https://github.com/aptheparker/baekjoon](https://github.com/aptheparker/me)
 
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-Useful resources and libraries in this project.
-
- - [none](none)
+None
 
