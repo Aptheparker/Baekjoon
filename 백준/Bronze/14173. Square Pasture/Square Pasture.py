@@ -1,0 +1,5 @@
+a, b, c, d = map(int, input().split())
+e, f, g, h = map(int, input().split())
+n = max(c, g) - min(a, e)
+m = max(d, h) - min(b, f)
+print(max(n, m) ** 2)
